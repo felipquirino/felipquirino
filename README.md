@@ -1,10 +1,9 @@
-# Olá, eu sou o [Felipe Quirino] 👋
+# Olá, eu sou o Felipe Quirino 👋
 
 ### Assistente de TI, Desenvolvedor Backend & Entusiasta de Tecnologia
 
 Estou focado em criar APIs de alto desempenho e soluções escaláveis utilizando **Python** e **FastAPI**, além de automatizar rotinas e ambientes com **Docker** e **Linux**.
 
----
 
 ## Minha Stack & Ferramentas
 
@@ -14,7 +13,6 @@ Estou focado em criar APIs de alto desempenho e soluções escaláveis utilizand
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## Sobre mim
 
@@ -22,8 +20,3 @@ Estou focado em criar APIs de alto desempenho e soluções escaláveis utilizand
 -  **Objetivos:** Aprimorar arquitetura de software, boas práticas de código e entrega contínua.
 -  **Sistema operacional do dia a dia:** Linux, Windows.
 
----
-
-## Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[seu-linkedin])
