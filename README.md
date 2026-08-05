@@ -1,11 +1,11 @@
-# Olá, eu sou o Felipe Quirino 👋
+# Hello, I'm Felipe Quirino
 
-### Assistente de TI, Estudante de Backend & Entusiasta de Tecnologia
+### IT Assistant, Backend Student & Tech Enthusiast
 
-Estou focado em criar APIs de alto desempenho e soluções escaláveis utilizando **Python** e **FastAPI**, além de automatizar rotinas e ambientes com **Docker** e **Linux**.
+I am focused on creating high-performance APIs and scalable solutions using **Python** and **FastAPI**, as well as automating routines and environments with **Docker** and **Linux**.
 
 
-## Minha Stack & Ferramentas
+## My Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
