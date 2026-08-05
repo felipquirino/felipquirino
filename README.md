@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o [Felipe Quirino] 👋
 
-<!--
-**felipquirino/felipquirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Assistente de TI, Desenvolvedor Backend & Entusiasta de Tecnologia
 
-Here are some ideas to get you started:
+Estou focado em criar APIs de alto desempenho e soluções escaláveis utilizando **Python** e **FastAPI**, além de automatizar rotinas e ambientes com **Docker** e **Linux**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Minha Stack & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Sobre mim
+
+-  **Atualmente trabalhando em:** Projetos usando FastAPI, arquitetura de microserviços e conteinerização.
+-  **Objetivos:** Aprimorar arquitetura de software, boas práticas de código e entrega contínua.
+-  **Sistema operacional do dia a dia:** Linux, Windows.
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&theme=tokyonight&hide=html,css,javascript" />
+</p>
+
+---
+
+## Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[seu-linkedin])
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu-email@email.com])
