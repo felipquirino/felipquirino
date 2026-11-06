@@ -1,24 +1,53 @@
-# Hello, I'm Felipe Quirino
+<div align="center">
 
-### IT Assistant, Developer & Tech Enthusiast
+# Hello, I'm Felipe Quirino 👋
 
-I am focused on building complete, high-performance web applications using Python and FastAPI for scalable backend APIs, alongside modern JavaScript, HTML5, and CSS3 for dynamic, responsive frontend interfaces. Additionally, I automate routines and maintain development environments using Docker and Linux.
+### Frontend Engineer & UI/UX Enthusiast
 
-## My Toolkit
+<p align="center">
+  <em>Crafting high-performance, immersive, and pixel-perfect web interfaces with modern frontend tooling.</em>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+---
+
+## About Me
+
+I am a developer specialized in creating modern, scalable, and visually stunning web applications. My core focus lies in the frontend ecosystem—turning complex ideas into fluid user experiences using **React, Next.js, Tailwind CSS, and Three.js** for 3D interactions. Coupled with a strong foundation in UI/UX design and clean code architectures, I build applications that are as performant as they are engaging.
+
+---
+
+## 🛠️ My Frontend & UI Toolkit
+
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+---
+
+## ✨ Core Highlights
+
+- **Modern Component Architecture:** Building reusable, type-safe components using React, Next.js, and TypeScript.
+- **Responsive & Utility-First Styling:** Crafting sleek, accessible, and adaptive layouts with Tailwind CSS.
+- **Immersive 3D Graphics:** Integrating interactive 3D elements and web experiences with Three.js.
+- **Design Systems & Prototyping:** Bridging the gap between design and code using Figma and modern UI principles.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeQuirino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Felipe's GitHub Stats" />
+</div>
