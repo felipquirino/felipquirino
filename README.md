@@ -18,7 +18,7 @@ I am a developer specialized in creating modern, scalable, and visually stunning
 
 ---
 
-## 🛠️ My Frontend & UI Toolkit
+## My Frontend & UI Toolkit
 
 <div align="center">
 
@@ -35,19 +35,4 @@ I am a developer specialized in creating modern, scalable, and visually stunning
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
----
-
-## ✨ Core Highlights
-
-- **Modern Component Architecture:** Building reusable, type-safe components using React, Next.js, and TypeScript.
-- **Responsive & Utility-First Styling:** Crafting sleek, accessible, and adaptive layouts with Tailwind CSS.
-- **Immersive 3D Graphics:** Integrating interactive 3D elements and web experiences with Three.js.
-- **Design Systems & Prototyping:** Bridging the gap between design and code using Figma and modern UI principles.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeQuirino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Felipe's GitHub Stats" />
 </div>
